@@ -1,13 +1,21 @@
 # D Anil Kumar
 ![ ](anil.jpg  "Anil Kumar")
 
-Resume:  [docx](./Anil_Kumar_Resume.docx)  [pdf](./Anil_Kumar_Resume.pdf)
-
-Yellareddyguda, Hyderabad Mobile: 96188 45222 
+# Contact Info
 
 Email: [anilk.devarakonda@gmail.com](mailto:anilk.devarakonda@gmail.com)
 
-Web:[https://anildkumar.github.io](https://anildkumar.github.io)
+Mobile: 96188 45222 
+
+Web: [https://anildkumar.github.io](https://anildkumar.github.io)
+
+[LinkedIn](https://www.linkedin.com/in/anil-devarakonda/)
+
+***
+# Resume
+
+***
+[Resume (docx)](./Anil_Kumar_Resume.docx) || [Resume (pdf)](./Anil_Kumar_Resume.pdf)
 
 # Objective
 
