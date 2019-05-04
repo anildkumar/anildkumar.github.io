@@ -1,7 +1,7 @@
 # D Anil Kumar
 ![ ](anil.jpg  "Anil Kumar")
 
-Resume:  [docx](./Anil_Kumar.docx)  [pdf](./Anil_Kumar.pdf)
+Resume:  [docx](./Anil_Kumar_Resume.docx)  [pdf](./Anil_Kumar_Resume.pdf)
 
 Yellareddyguda, Hyderabad Mobile: 96188 45222 
 
