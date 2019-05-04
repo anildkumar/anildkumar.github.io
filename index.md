@@ -1,4 +1,3 @@
-# D Anil Kumar
 ![ ](anil.jpg  "Anil Kumar")
 
 # Contact Info
