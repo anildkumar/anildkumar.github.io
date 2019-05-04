@@ -2,7 +2,7 @@
 
 # Contact Info
 
-Email: [anilk.devarakonda@gmail.com](mailto:anilk.devarakonda@gmail.com)
+Email: [anilk.devarakonda - at - gmail.com](mailto:anilk.devarakonda-at-gmail.com)
 
 Mobile: 96188 45222 
 
