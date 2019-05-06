@@ -1,4 +1,4 @@
-![ ](anil.jpg  "Anil Kumar")
+﻿![ ](anil.jpg  "Anil Kumar")
 
 # Contact Info
 
@@ -90,6 +90,7 @@ Specific programming and design tasks involve:
 # Technical Skills
 
 - Programming Languages:  C, Java.
+- Hadoop ecosystem (HDFS, Spark, Pig, Hive, MapReduce)
 - E-Learning Tools: Articulate StoryLine 1-2, Adobe Captivate, Lectora, Articulate Studio, iSpring Suite.
 - Scripting Languages: Python.
 - Databases: SQL.
