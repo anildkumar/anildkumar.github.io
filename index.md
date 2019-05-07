@@ -8,7 +8,7 @@ Mobile: 96188 45222
 
 Web: [https://anildkumar.github.io](https://anildkumar.github.io)
 
-[LinkedIn](https://www.linkedin.com/in/anil-devarakonda/)
+LinkedIn: [https://www.linkedin.com/in/anil-devarakonda/](https://www.linkedin.com/in/anil-devarakonda/)
 
 ***
 # Resume
