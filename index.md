@@ -90,11 +90,11 @@ Specific programming and design tasks involve:
 # Technical Skills
 
 - Programming Languages:  C, Java, Python.
-- Hadoop ecosystem: HDFS, Hive, Apache Spark, Apache Pig.
+- Hadoop ecosystem: HDFS, Hive, Apache Spark, Apache Pig.	
 - E-Learning Tools: Articulate StoryLine 1-2, Adobe Captivate, Lectora, Articulate Studio, iSpring Suite.
 - Scripting Languages: Python.
 - Databases: SQL.
-- Web Design: Flash, JavaScript, CSS, HTML, XML, Dreamweaver.
+- Web Design: JavaScript, CSS, HTML, XML, Dreamweaver.
 - Operating Systems: Linux, Windows.
 
 # Professional Affiliations/Activities
