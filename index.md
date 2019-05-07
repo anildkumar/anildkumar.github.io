@@ -92,7 +92,6 @@ Specific programming and design tasks involve:
 - Programming Languages:  C, Java, Python.
 - Hadoop ecosystem: HDFS, Hive, Apache Spark, Apache Pig.	
 - E-Learning Tools: Articulate StoryLine 1-2, Adobe Captivate, Lectora, Articulate Studio, iSpring Suite.
-- Scripting Languages: Python.
 - Databases: SQL.
 - Web Design: JavaScript, CSS, HTML, XML, Dreamweaver.
 - Operating Systems: Linux, Windows.
