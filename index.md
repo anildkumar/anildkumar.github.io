@@ -8,7 +8,7 @@ Email: [anilk.devarakonda - at - gmail.com](mailto:anilk.devarakonda-at-gmail.co
 
 Web: [https://anildkumar.github.io](https://anildkumar.github.io)
 
-[LinkedIn](https://www.linkedin.com/in/anil-devarakonda/)
+LinkedIn: [https://www.linkedin.com/in/anil-devarakonda/](https://www.linkedin.com/in/anil-devarakonda/)
 
 ***
 # Resume
