@@ -4,7 +4,7 @@
 
 Email: [anilk.devarakonda - at - gmail.com](mailto:anilk.devarakonda-at-gmail.com)
 
-Mobile: 96188 45222 
+
 
 Web: [https://anildkumar.github.io](https://anildkumar.github.io)
 
